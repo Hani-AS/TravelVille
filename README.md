@@ -2,4 +2,4 @@
 
 A Travel Agency Theme
 
-Link: https://hani-as.github.io/TravelVille/
+[live page](https://hani-as.github.io/TravelVille/)
